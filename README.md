@@ -2,7 +2,9 @@
 
 ---
 
-This GarlicOS Theme is made for the Retro Gray RG35XX and matches the device's body color perfectly. The theme blends with the gray body and bezels of the RG35XX, giving it a clean, simple look that fits the retro style. It’s designed to keep things looking smooth and simple while matching the color scheme of the handheld. 
+This custom theme for the RG35XX running GarlicOS is designed to perfectly complement the handheld’s retro gray bezels, providing a seamless and cohesive look. The theme’s aesthetic is carefully crafted to match the RG35XX’s unique color, ensuring a uniform, sleek appearance across the device.
+
+Given the limited color volume of the RG35XX’s display, special attention has been paid to calibrating the color balance.
 
 ---
 
